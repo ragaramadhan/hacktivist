@@ -1,0 +1,750 @@
+[
+  {
+    "name": "Arya Wijaya",
+    "email": "aryawijaya@mail.com",
+    "password": "$2b$10$7OqncmbOkmSAnU4QAnj1se2/zCrgYEQEMYyZg.A6kO2UPVf7hT5ga",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Raya Sudirman Kav. 50, Jakarta Selatan 12190",
+      "birth": "1998-01-01"
+    },
+    "specialization": "Hukum Perdata",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Indonesia Magister Hukum (Spesialisasi Litigation)"
+        },
+        {
+          "S2": "Harvard Law School"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736143271/hacktivist/icvyu1ekgiphyy81tqia.jpg"
+    }
+  },
+  {
+    "name": "Bagus Pratama",
+    "email": "baguspratama@mail.com",
+    "password": "$2b$10$VQUUX2QoeOpr1BpLpaRw/uI3WjH6..jMeURok9Sz0qg97CDcO8Hr2",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Diponegoro No. 100, Bandung 40122",
+      "birth": "1997-01-07"
+    },
+    "specialization": "Hukum Properti",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Padjadjaran"
+        },
+        {
+          "S2": "Magister Kenotariatan, Universitas Indonesia"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736143609/hacktivist/yiwu0c3lcj2tkyctd6b1.jpg"
+    }
+  },
+  {
+    "name": "Citra Kirana",
+    "email": "citrakirana@mail.com",
+    "password": "$2b$10$t9rDF1nS6kEsowaM1eSJZ.o2hqT5xN4licGBWfLX7PKtwDA4npFhS",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Imam Bonjol No. 88, Surabaya 60271",
+      "birth": "1998-02-01"
+    },
+    "specialization": "Hukum Bisnis",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Airlangga"
+        },
+        {
+          "S2": "Magister Humaniora (Spesialisasi Studi Gender), Universitas Gadjah Mada"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736143926/hacktivist/zhpjwqcjganefymwxs64.jpg"
+    }
+  },
+  {
+    "name": "Farah Diba",
+    "email": "farahdiba@mail.com",
+    "password": "$2b$10$oH7uBouy53MFsZZSWL5ar.jOqTlbx3wMthG59KXKI63seATV1Q816",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Diponegoro No. 123, Semarang 50132",
+      "birth": "1992-01-01"
+    },
+    "specialization": "Hukum Bisnis",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Diponegoro"
+        },
+        {
+          "S2": "Magister Hukum (Spesialisasi Hukum Internasional), London School of Economics and Political Science"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736150437/hacktivist/ucopfuf1u6fa9aj5iimj.jpg"
+    }
+  },
+  {
+    "name": "Galih Wicaksono",
+    "email": "galihwicaksono@mail.com",
+    "password": "$2b$10$b0z1BiHyKTCjYPUiTTyZWO8WsyGZQ5gYexBxfKB0DcKRwY9KRvXuW",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Gatot Subroto Kav. 110, Jakarta Selatan 12190",
+      "birth": "1990-12-12"
+    },
+    "specialization": "Hukum Bisnis",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Indonesia"
+        },
+        {
+          "S2": "Magister Manajemen Bisnis (MBA), Universitas Stanford"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736150531/hacktivist/jslk0zjzoi2ftyss2kip.jpg"
+    }
+  },
+  {
+    "name": "Hanafi Rahman",
+    "email": "hanafirahman@mail.com",
+    "password": "$2b$10$/Fd.KeaUItou5yQ9eXt3EemaetPrhvRMAJA0VLmpAEjQeetiKyfZC",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Hasanuddin No. 111, Makassar 90221",
+      "birth": "1990-12-12"
+    },
+    "specialization": "Hukum Pidana",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Hasanuddin"
+        },
+        {
+          "S2": "Magister Psikologi (Spesialisasi Forensik), Universitas Indonesia"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736150620/hacktivist/m2sdcspjemks9juufuo2.jpg"
+    }
+  },
+  {
+    "name": "Inayah Putri",
+    "email": "inayahputri@mail.com",
+    "password": "$2b$10$esQGzgTZZftTDUAKku9UbOgJDiDm9Y/LaqehgdPje.w.Us/KsAVGK",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Imam Bonjol No. 99, Surabaya 60271",
+      "birth": "1990-12-12"
+    },
+    "specialization": "Hukum Keluarga",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Airlangga"
+        },
+        {
+          "S2": "Magister Hukum (Spesialisasi Hak Kekayaan Intelektual), Yale Law School"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736150703/hacktivist/wrtoneawidjn3jjsa1ux.jpg"
+    }
+  },
+  {
+    "name": "Jatmiko Adi",
+    "email": "jatmikoadi@mail.com",
+    "password": "$2b$10$EysDswYo/pZ4VatkQcwAZeWAUv1/ZYl6lPzX3E6UOsAl/ctuESdfm",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Jenderal Sudirman No. 112, Yogyakarta 55223",
+      "birth": "1990-12-12"
+    },
+    "specialization": "Hukum Kontrak",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Gadjah Mada"
+        },
+        {
+          "S2": "Magister Kenotariatan, Universitas Indonesia"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736150826/hacktivist/ugethplckxvbh8bsdad8.jpg"
+    }
+  },
+  {
+    "name": "Karina Putri",
+    "email": "karinaputri@mail.com",
+    "password": "$2b$10$my/m7/lknJfWcOup8CxmQecdtg9KStCjqUpBnUOYom86XsYb/7.0u",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Diponegoro No. 150, Bandung 40122",
+      "birth": "1990-01-01"
+    },
+    "specialization": "Hukum Perdata",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Padjadjaran"
+        },
+        {
+          "S2": "Magister Hukum (Spesialisasi Hukum Teknologi), Columbia Law School"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736154553/hacktivist/e7rfi9nskoliqmwrztav.jpg"
+    }
+  },
+  {
+    "name": "Leo Pratama",
+    "email": "leopratama@mail.com",
+    "password": "$2b$10$9RjV1TbJIPk0bGc6JHs2Su1LSj9Mr20xc1o0h26NhiY/GY9PVy/ce",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Gatot Subroto Kav. 120, Jakarta Selatan 12190",
+      "birth": "1990-01-01"
+    },
+    "specialization": "Hukum Perdata",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Indonesia"
+        },
+        {
+          "S2": "Magister Manajemen Bisnis (MBA), INSEAD"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736154633/hacktivist/ihkh0ry6ppsz6ielx2hs.jpg"
+    }
+  },
+  {
+    "name": "Maya Sari",
+    "email": "mayasari@mail.com",
+    "password": "$2b$10$hFw2EOvMt3z9F3LsQYZO2uwlLFwgXOjF2diVWK4YHLtziQlgGYp8K",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Hasanuddin No. 121, Makassar 9022",
+      "birth": "1998-02-02"
+    },
+    "specialization": "Hukum Pidana",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Hasanuddin"
+        },
+        {
+          "S2": "Magister Filsafat (Spesialisasi Filsafat Hukum), Universitas Oxford"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736154715/hacktivist/urifz5nnqhpl72kxqvuj.jpg"
+    }
+  },
+  {
+    "name": "Naufal Ramadhan",
+    "email": "naufalramadhan@mail.com",
+    "password": "$2b$10$ldusQQ3c13Wrz2yMgBZuf..ST7JCcDe.27muDYndWJ7tOVDn7./NG",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Imam Bonjol No. 100, Surabaya 60271",
+      "birth": "1998-03-03"
+    },
+    "specialization": "Hukum Bisnis",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Airlangga"
+        },
+        {
+          "S2": "Magister Hukum (Spesialisasi Hukum Keuangan), Harvard Law School"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736154793/hacktivist/wkt2wighc27hvdrq9zpb.jpg"
+    }
+  },
+  {
+    "name": "Olivia Chandra",
+    "email": "oliviachandra@mail.com",
+    "password": "$2b$10$jt75AbUBXATZf13CvjqFiuECNFimuvLg910vj7wwXqDPnguSR0Eda",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Diponegoro No. 160, Bandung 40122",
+      "birth": "1999-01-01"
+    },
+    "specialization": "Hukum Properti",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Padjadjaran"
+        },
+        {
+          "S2": "Magister Hukum (Spesialisasi Hukum Kesehatan), Yale Law School"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736154888/hacktivist/cktmvckvk4ze2awxzsgm.jpg"
+    }
+  },
+  {
+    "name": "Peter Wijaya",
+    "email": "peterwijaya@mail.com",
+    "password": "$2b$10$CqIeRLixV6E0.ZdZca8x6OIH2a7xDNtD1E3q9os2qV3yY/zEOnB3O",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Gatot Subroto Kav. 130, Jakarta Selatan 12190",
+      "birth": "1998-03-03"
+    },
+    "specialization": "Hukum Keluarga",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Indonesia"
+        },
+        {
+          "S2": "Magister Manajemen Bisnis (MBA), Stanford University"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736154957/hacktivist/obeuuiwjinrmn6hveauk.jpg"
+    }
+  },
+  {
+    "name": "Qila Azka",
+    "email": "qilaazka@mail.com",
+    "password": "$2b$10$OdxBotceZm5GQaioNtQWSeXMsoTwKGllj4BY.ee3Xv5DzPxFsMFTu",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Hasanuddin No. 122, Makassar 90221",
+      "birth": "1998-03-03"
+    },
+    "specialization": "Hukum Pidana",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Hasanuddin"
+        },
+        {
+          "S2": "Magister Seni (Spesialisasi Studi Perburuhan), Universitas Cornell"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736155034/hacktivist/n4omlqb9mzf1noskfqgt.jpg"
+    }
+  },
+  {
+    "name": "Rahmat Hidayat",
+    "email": "rahmathidayat@mail.com",
+    "password": "$2b$10$NcLwam4Rb2RtojXjbd2vru7KC4TBGGXxIcpvm21..h4mBxHWFUS/m",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Imam Bonjol No. 101, Surabaya 60271",
+      "birth": "1998-01-01"
+    },
+    "specialization": "Hukum Pidana",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Airlangga"
+        },
+        {
+          "S2": "Magister Hukum (Spesialisasi Hukum Lingkungan), Universitas Oxford"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736155104/hacktivist/io2tg6chaovsaoaibxuj.jpg"
+    }
+  },
+  {
+    "name": "Sabrina Putri",
+    "email": "sabrinaputri@mail.com",
+    "password": "$2b$10$rLvhjE2bY3.4cSJl5VaoZurv7AXEo9NBgDIqkYOfpRD7TjeUB1uqa",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Diponegoro No. 170, Bandung 40122",
+      "birth": "1998-04-04"
+    },
+    "specialization": "Hukum Kontrak",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Padjadjaran"
+        },
+        {
+          "S2": "Magister Hukum (Spesialisasi Hukum Pajak), Harvard Law School"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736155178/hacktivist/lr0hvvwxv9jaxhfot6xa.jpg"
+    }
+  },
+  {
+    "name": "Tristan Pratama",
+    "email": "tristanpratama@mail.com",
+    "password": "$2b$10$jf6PontARWBkHjz/6g9VROvnWHQD3hjLu1TCO7bFOPr0Q6xX9AUEa",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Gatot Subroto Kav. 140, Jakarta Selatan 12190",
+      "birth": "1998-04-04"
+    },
+    "specialization": "Hukum Asuransi",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Indonesia"
+        },
+        {
+          "S2": "Magister Manajemen Bisnis (MBA), INSEAD"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736155252/hacktivist/ekbau2aei0uti1kbgf4o.jpg"
+    }
+  },
+  {
+    "name": "Saskia Amanda",
+    "email": "saskiamanda@mail.com",
+    "password": "$2b$10$jcIVoxoJX21UEIBtTmMHyOerbxAa/a1JguYdhFGuy4GeUkzsDzz5m",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Diponegoro No. 180, Bandung 40122",
+      "birth": "1998-01-01"
+    },
+    "specialization": "Hukum Pidana",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Padjadjaran"
+        },
+        {
+          "S2": "Magister Hukum (Spesialisasi Hukum Maritim), Universitas Cambridge"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736155554/hacktivist/t2z6vfwfab8hxlf8qrl9.jpg"
+    }
+  },
+  {
+    "name": "Teguh Pratama",
+    "email": "teguhpratama@mail.com",
+    "password": "$2b$10$UACrUz8rAY1vkzHyC4naKepzBVff1g6xfIor4iJ4WdcpkkPS9ZDSK",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Gatot Subroto Kav. 150, Jakarta Selatan 12190",
+      "birth": "1998-01-01"
+    },
+    "specialization": "Hukum Perdata",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Indonesia"
+        },
+        {
+          "S2": "Magister Manajemen Bisnis (MBA), Wharton School"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736155774/hacktivist/talvjgemsaavqtxkoxwc.jpg"
+    }
+  },
+  {
+    "name": "Umi Kulsum",
+    "email": "umikulsum@mail.com",
+    "password": "$2b$10$WKVAkA.4uV4B17F67g4qyeqmDeRfxJd.vdZgxPz2N.UpFyTgRpuOy",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Hasanuddin No. 123, Makassar 90221",
+      "birth": "1990-12-12"
+    },
+    "specialization": "Hukum Perdata",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Hasanuddin"
+        },
+        {
+          "S2": "Magister Agama Islam, Universitas Islam Negeri Alauddin Makassar"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736155844/hacktivist/kmqccqseanpc36cbpl78.jpg"
+    }
+  },
+  {
+    "name": "Valentino Aditya",
+    "email": "valentinoaditya@mail.com",
+    "password": "$2b$10$A0uU8tskWc5NY0jzfCPNYuwu3ZRIxGreItHpMABCIU6K7bDsDk3Cy",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Imam Bonjol No. 102, Surabaya 60271",
+      "birth": "1998-12-12"
+    },
+    "specialization": "Hukum Bisnis",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Airlangga"
+        },
+        {
+          "S2": "Magister Hukum (Spesialisasi Hukum Olahraga), Universitas Oxford"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736155920/hacktivist/uvtjkvdpnepnhgqrtcum.jpg"
+    }
+  },
+  {
+    "name": "Wulan Sari",
+    "email": "wulansari@mail.com",
+    "password": "$2b$10$PJEjZWkshjd9KomrAlj0Te0TqYewo/W/wrrpVFSbYWeA4oHX1.HG.",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Diponegoro No. 190, Bandung 40122",
+      "birth": "1989-12-12"
+    },
+    "specialization": "Hukum Bisnis",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Padjadjaran"
+        },
+        {
+          "S2": "Magister Hukum (Spesialisasi Hukum Kemanusiaan Internasional), Harvard Law School"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736155978/hacktivist/zmkxxrzyh6iqi80l0nfm.jpg"
+    }
+  },
+  {
+    "name": "Xavier Pratama",
+    "email": "xavierpratama@mail.com",
+    "password": "$2b$10$bBVwOPglphfl9YwiJv18AOHVF7gSL9nVvkThsrF/XoPXYEwbkJJvm",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Gatot Subroto Kav. 160, Jakarta Selatan 12190",
+      "birth": "1990-12-12"
+    },
+    "specialization": "Hukum Bisnis",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Indonesia"
+        },
+        {
+          "S2": "Magister Manajemen Bisnis (MBA), INSEAD"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736156046/hacktivist/avghhmi2iptb0rq9i4yy.jpg"
+    }
+  },
+  {
+    "name": "Yuniar Lestari",
+    "email": "yuniarlestari@mail.com",
+    "password": "$2b$10$U/b97gD4GM6y1/hmTaMGp.NCvMotvuNWMGVepfE5AUawWNmm5s3w6",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Hasanuddin No. 124, Makassar 90221",
+      "birth": "1990-12-23"
+    },
+    "specialization": "Hukum Properti",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Airlangga"
+        },
+        {
+          "S2": "Magister Hukum (Spesialisasi Hukum Perbankan), Universitas Cambridge"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736156116/hacktivist/bbaqocjxykq8smaacxnu.jpg"
+    }
+  },
+  {
+    "name": "Zidan Akbar",
+    "email": "zidanakbar@mail.com",
+    "password": "$2b$10$uwr6UmsLpKnXepvIpt8iJORLRrwYPkROHGrIqk8iJRIcEJUgB5fbq",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Imam Bonjol No. 103, Surabaya 60271",
+      "birth": "1998-12-12"
+    },
+    "specialization": "Hukum Properti",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Airlangga"
+        },
+        {
+          "S2": "Magister Hukum (Spesialisasi Hukum Perbankan), Universitas Cambridge"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736156335/hacktivist/p57xoofivnu9g5nq3tgp.jpg"
+    }
+  },
+  {
+    "name": "Zaro Zahro",
+    "email": "zarozahro@mail.com",
+    "password": "$2b$10$WQydh2X02Cin.rFp0FCm/O5cx6txZWUZLGuNjSkYC1kuallrb.5qu",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Diponegoro No. 200, Bandung 40122",
+      "birth": "1998-12-23"
+    },
+    "specialization": "Hukum Properti",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Padjadjaran"
+        },
+        {
+          "S2": "Magister Hukum (Spesialisasi Hak Kekayaan Intelektual), Universitas Oxford"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736156451/hacktivist/klu3jo2s3gjcuvg7tsvy.jpg"
+    }
+  },
+  {
+    "name": "Yasmin Amani",
+    "email": "yasminamani@mail.com",
+    "password": "$2b$10$NaxLGnkars3lr.qd7wAuCeHVnqSwV0XZ.9L1GPEqcl4ZZf7g6/DaO",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Hasanuddin No. 125, Makassar 90221",
+      "birth": "1990-12-12"
+    },
+    "specialization": "Hukum Keluarga",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Hasanuddin"
+        },
+        {
+          "S2": "Magister Seni (Spesialisasi Psikologi Anak), Universitas Indonesia"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736156605/hacktivist/vivdzmulxr6m5hhvoxzg.jpg"
+    }
+  },
+  {
+    "name": "Zainal Arifin",
+    "email": "zainalarifin@mail.com",
+    "password": "$2b$10$wc.8ji7FbdEd7ACmTsTNAOFBahm98V81ZnARFpgpIVYP4EXp.5Ph2",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Imam Bonjol No. 104, Surabaya 60271",
+      "birth": "1998-12-12"
+    },
+    "specialization": "Hukum Keluarga",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Airlangga"
+        },
+        {
+          "S2": "Magister Hukum (Spesialisasi Hukum Migas), Harvard Law School"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736156689/hacktivist/hgioesdejuf9mqi1ygvq.jpg"
+    }
+  },
+  {
+    "name": "Zahra Nabila",
+    "email": "zahranabila@mail.com",
+    "password": "$2b$10$qrsjJGjM0Fso8sp16.BiOu6aV0Ruvv.j2R7DagQr417xcBTWC4QvS",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Diponegoro No. 210, Bandung 40122",
+      "birth": "1990-12-12"
+    },
+    "specialization": "Hukum Kontrak",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Padjadjaran"
+        },
+        {
+          "S2": "Magister Hukum (Spesialisasi Hukum Perdata Internasional), Columbia Law School"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736156760/hacktivist/tha2tsakbtujgsuz8fp9.jpg"
+    }
+  },
+  {
+    "name": "Zulfikar Hakim",
+    "email": "zulfikarhakim@mail.com",
+    "password": "$2b$10$YIC6Z25jMLMdowtRkXSjueqt3XnyTlIcmOSatgO13ccOIjRSbuOhO",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Gatot Subroto Kav. 180, Jakarta Selatan 12190",
+      "birth": "1898-12-12"
+    },
+    "specialization": "Hukum Perlindungan",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Indonesia"
+        },
+        {
+          "S2": "Magister Manajemen Bisnis (MBA), Wharton School"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736156832/hacktivist/q5t5yzixbsf2xq5wh3ak.jpg"
+    }
+  },
+  {
+    "name": "Yumna Aisha",
+    "email": "yumnaasiha@mail.com",
+    "password": "$2b$10$qmAiovQ0k1HEx1B5P/jEB.su.97dY3sFlkx48YOQzdzm4j8qjegda",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Hasanuddin No. 126, Makassar 90221",
+      "birth": "1998-12-12"
+    },
+    "specialization": "Hukum Perlindungan",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Hasanuddin"
+        },
+        {
+          "S2": "Magister Seni (Spesialisasi Studi Gender), Universitas Gadjah Mada"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736156891/hacktivist/gcnkpty3gba4on0hcwba.jpg"
+    }
+  },
+  {
+    "name": "Zoya Karina",
+    "email": "zoyakarina@mail.com",
+    "password": "$2b$10$SqPCyUAVr7v9mo2SW/arw.qtCva2ey7sGd4TDE3f2clzpmuzqzgna",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Diponegoro No. 220, Bandung 40122",
+      "birth": "1998-12-12"
+    },
+    "specialization": "Hukum Asuransi",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Padjadjaran"
+        },
+        {
+          "S2": "Magister Hukum (Spesialisasi Hukum Perusahaan), Harvard Law School"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736156973/hacktivist/lgbsbz947v74dkea3yri.jpg"
+    }
+  },
+  {
+    "name": "Zaki Maulana",
+    "email": "zakimaulana@mail.com",
+    "password": "$2b$10$1eJnkeefFJ6jjdaemYI14OiZC.PTgreOc/ukn2ndG5B/y4YWAqgYm",
+    "role": "lawyer",
+    "profile": {
+      "address": "Jl. Gatot Subroto Kav. 190, Jakarta Selatan 12190",
+      "birth": "1988-12-12"
+    },
+    "specialization": "Hukum Asuransi",
+    "credentials": {
+      "education": [
+        {
+          "S1": "Sarjana Hukum, Universitas Indonesia"
+        },
+        {
+          "S2": "Magister Manajemen Bisnis (MBA), MIT Sloan"
+        }
+      ],
+      "certification": "https://res.cloudinary.com/dztilubhi/image/upload/v1736157050/hacktivist/ju83llx0grb1zacsnoog.jpg"
+    }
+  }
+]

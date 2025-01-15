@@ -1,0 +1,25 @@
+{
+  "lawyers": [
+    {
+      "id": "1",
+      "name": "Dr.Stephanie Mo",
+      "image": "https://images.pexels.com/photos/4427622/pexels-photo-4427622.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "bio": "Dr. Stephanie Mo adalah seorang pakar hukum yang berpengalaman luas dalam memberikan konsultasi hukum profesional. Ia meraih gelar Sarjana Hukum (SH) dari Universitas Gadjah Mada dengan predikat cum laude dan melanjutkan studi Magister Hukum (MH) di Universitas Leiden, Belanda, dengan spesialisasi Hukum Bisnis Internasional. Selain itu, Dr. Andria juga menyelesaikan program Doktoral (Ph.D.) di Universitas Melbourne dengan fokus penelitian pada arbitrase internasional. Sebagai konsultan hukum bersertifikat, ia aktif membantu individu maupun perusahaan dalam menyelesaikan permasalahan hukum yang kompleks, dengan pendekatan yang profesional dan solutif.",
+      "fee": 50000
+    },
+    {
+      "id": "2",
+      "name": "Dr. Andi Sanjaya, S.H., LL.M., Ph.D",
+      "image": "https://images.pexels.com/photos/4427620/pexels-photo-4427620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "bio": "Dr. Andi Sanjaya adalah seorang ahli hukum yang memiliki reputasi tinggi dalam bidang Hukum Perdata dan Penyelesaian Sengketa. Ia menyelesaikan pendidikan Sarjana Hukum (S.H.) di Universitas Indonesia dengan predikat summa cum laude. Selanjutnya, ia mendapatkan gelar Master of Laws (LL.M.) dari Harvard Law School, Amerika Serikat, dengan fokus pada Hukum Perdata Internasional. Gelar doktoralnya (Ph.D.) diraih dari University of Cambridge, Inggris, dengan penelitian mendalam tentang mekanisme mediasi dalam hukum perdata internasional. Dr. Andi dikenal karena pengalamannya yang luas dalam menangani kasus-kasus perdata yang kompleks, termasuk kontrak bisnis, hak kekayaan intelektual, dan penyelesaian sengketa antar perusahaan multinasional. Ia selalu mengedepankan profesionalisme dan dedikasi untuk memberikan solusi hukum terbaik kepada kliennya.",
+      "fee": 50000
+    },
+    {
+      "id": "3",
+      "name": "Dr. Andria Pratama, S.H., M.H., LL.D.",
+      "image": "https://images.pexels.com/photos/4427610/pexels-photo-4427610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "bio": "Dr. Andria Pratama adalah seorang pakar hukum terkemuka yang memiliki keahlian dalam Hukum Tata Negara dan Hak Asasi Manusia. Ia menyelesaikan pendidikan Sarjana Hukum (S.H.) di Universitas Airlangga, di mana ia meraih penghargaan sebagai lulusan terbaik. Gelar Magister Hukum (M.H.) diperolehnya dari Universitas Nasional Singapura (NUS) dengan spesialisasi Hukum Tata Negara. Ia kemudian meraih gelar Doktor Hukum (LL.D.) dari Kyoto University, Jepang, dengan penelitian yang berfokus pada perlindungan hak asasi manusia dalam sistem hukum Asia. Sebagai seorang akademisi dan praktisi hukum, Dr. Andria kerap diundang sebagai pembicara di berbagai forum internasional dan telah membantu pemerintah serta organisasi internasional dalam menyusun kebijakan yang berpihak pada keadilan dan hak asasi manusia.",
+      "fee": 50000
+    }
+  ]
+}
